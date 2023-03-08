@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
     fun createNewFeatureOfBasic(){
         var texViewNew = findViewById<TextView>(R.id.textVv)
     }
+    fun workingOnDataBase(){
+        //some code for database
+    }
 }
